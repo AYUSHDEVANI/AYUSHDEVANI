@@ -23,7 +23,7 @@ I love working at the intersection of **AI/ML, Generative AI, and Full-Stack Dev
 ### 🏆 Highlights
 - 🥇 Finalist – **Smart India Hackathon 2024 (Top 5 in India)**  
 - 🏅 Intern of the Month – Purezza Technologies  
-- 📚 Built multiple AI/ML projects: Multi-language Chatbot, RAG Textbook Q&A, Stock Screener, House Price Prediction, Attendance Management System  
+- 📚 Built multiple AI/ML projects: Customer Support Chatbot, RAG Textbook Q&A, Multi-language Chatbot, Stock Screener, House Price Prediction, Attendance Management System  
 
 ### 📫 Let’s Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/devani18/)  
